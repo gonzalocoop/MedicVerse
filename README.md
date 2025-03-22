@@ -8,3 +8,5 @@
 
 
 Prototype of a company's website for video calls with doctors for general care (non-functional, only HTML, CSS and JS)
+
+# Link of GithubPages: https://gonzalocoop21.github.io/MedicVerse.github.io/index.html
